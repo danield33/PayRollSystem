@@ -1,0 +1,13 @@
+\\DACC-File.delawareareacc.org\Student\22dawitd\Desktop\Projects\PayRoll\bin\Debug\netcoreapp3.1\PayRoll.exe
+\\DACC-File.delawareareacc.org\Student\22dawitd\Desktop\Projects\PayRoll\bin\Debug\netcoreapp3.1\PayRoll.deps.json
+\\DACC-File.delawareareacc.org\Student\22dawitd\Desktop\Projects\PayRoll\bin\Debug\netcoreapp3.1\PayRoll.runtimeconfig.json
+\\DACC-File.delawareareacc.org\Student\22dawitd\Desktop\Projects\PayRoll\bin\Debug\netcoreapp3.1\PayRoll.runtimeconfig.dev.json
+\\DACC-File.delawareareacc.org\Student\22dawitd\Desktop\Projects\PayRoll\bin\Debug\netcoreapp3.1\PayRoll.dll
+\\DACC-File.delawareareacc.org\Student\22dawitd\Desktop\Projects\PayRoll\bin\Debug\netcoreapp3.1\PayRoll.pdb
+\\DACC-File.delawareareacc.org\Student\22dawitd\Desktop\Projects\PayRoll\obj\Debug\netcoreapp3.1\PayRoll.csprojAssemblyReference.cache
+\\DACC-File.delawareareacc.org\Student\22dawitd\Desktop\Projects\PayRoll\obj\Debug\netcoreapp3.1\PayRoll.AssemblyInfoInputs.cache
+\\DACC-File.delawareareacc.org\Student\22dawitd\Desktop\Projects\PayRoll\obj\Debug\netcoreapp3.1\PayRoll.AssemblyInfo.cs
+\\DACC-File.delawareareacc.org\Student\22dawitd\Desktop\Projects\PayRoll\obj\Debug\netcoreapp3.1\PayRoll.csproj.CoreCompileInputs.cache
+\\DACC-File.delawareareacc.org\Student\22dawitd\Desktop\Projects\PayRoll\obj\Debug\netcoreapp3.1\PayRoll.dll
+\\DACC-File.delawareareacc.org\Student\22dawitd\Desktop\Projects\PayRoll\obj\Debug\netcoreapp3.1\PayRoll.pdb
+\\DACC-File.delawareareacc.org\Student\22dawitd\Desktop\Projects\PayRoll\obj\Debug\netcoreapp3.1\PayRoll.genruntimeconfig.cache
